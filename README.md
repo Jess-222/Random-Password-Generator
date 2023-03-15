@@ -26,6 +26,8 @@ THEN the password is either displayed in an alert or written to the page
 
 ## **Link**
 
+https://jess-222.github.io/Random-Password-Generator/
+
 ## **Installation**
 
 N/A
